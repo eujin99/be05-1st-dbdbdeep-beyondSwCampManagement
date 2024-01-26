@@ -1,6 +1,6 @@
 # be05-1st-dbdbdeep
 
-![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=DBDB%20DEEP&fontSize=90)
+![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&width=100%&section=header&text=DBDB%20DEEP&fontSize=90)
 
 
 
